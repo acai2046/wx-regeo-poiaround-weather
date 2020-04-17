@@ -1,5 +1,5 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/regeo/regeo",
     "pages/weather/weather",
@@ -13,14 +13,14 @@
     "pages/navigation_walk_detail/navigation",
     "pages/navigation_ride_detail/navigation",
     "pages/inputtips/input"
-
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarTitleText": "高德开放平台",
     "navigationBarTextStyle": "white"
   },
-  "networkTimeout":{
+  "networkTimeout": {
     "request": 6000
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
